@@ -15,10 +15,17 @@ $border-radius: 10px;
   margin: 0;
   padding: 0;
 }
+html {
+  background-color: var(--primary-color);
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
 body {
   display: grid;
   place-items: center;
-  min-height: 100vh;
   font-family: $Font-Primary;
   background-color: $Cream-500;
   color: $Black;
@@ -27,7 +34,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
+
 }
 .product-preview {
   display: grid;
