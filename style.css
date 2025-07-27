@@ -60,7 +60,7 @@ img {
 
 .title {
   font-family: "Fraunces", serif;
-  font-size: 28px;
+  font-size: 36px;
   margin-right: 30px;
   line-height: 1;
 }
@@ -79,7 +79,7 @@ img {
 
 .price {
   font-family: "Fraunces", serif;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 800;
   color: hsl(158, 36%, 37%);
 }
