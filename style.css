@@ -130,7 +130,7 @@ button img {
   .product-preview {
     grid-template-columns: 1fr;
   }
-  img {
+  .product-image img {
     border-radius: 10px 10px 0 0;
   }
   .product-details {
