@@ -50,3 +50,15 @@ While building this project, I strengthened my understanding of:
 - Mobile-first styling with Flexbox and Grid
 - SCSS variables for consistent theming
 - Semantic HTML structure for better accessibility
+
+## 🙋‍♀️ Author
+
+- GitHub - [@claracayres](https://github.com/claracayres)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/claracayres)
+- LinkedIn - [Your Name](https://www.linkedin.com/in/maria-clara-cayres-de-almeida)
+
+## 🎯 Acknowledgments
+
+Thanks to [Frontend Mentor](https://www.frontendmentor.io) for providing such amazing challenges that help developers practice real-world skills!
+
+---
